@@ -4,9 +4,9 @@
  * 红色性感Typecho主题
  * 
  * @package RedErotic
- * @author Erotic
+ * @author moodpo
  * @version 1.0.0
- * @link http://eroticfans.com
+ * @link http://moodpo.com
  */
 
 $this->need('header.php');
