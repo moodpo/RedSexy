@@ -49,7 +49,12 @@ d.在Digg_Plugin类下添加空方法，方便在主题中调用：
     public function execute(){
   	
     }
-    
+
+### 3.头像引用地址
+
+在usr/uploads/中新建目录author，在里面放上与作者名相同的以.jpg为后缀的图片即可，这块我写死了。
+
+你也可以放别的地方，但是需要修改主题文件。
     
 [1]:http://tepic2-ubox.stor.sinaapp.com/Stat.zip
 [2]:https://skydrive.live.com/?cid=70cbfefcb6408619&id=70CBFEFCB6408619!152
