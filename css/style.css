@@ -300,12 +300,14 @@ header nav ul li a:active {
 }
 
 .pagination a.newer,
-.pagination span.prev a{
+.pagination span.prev a,
+.pagination a.prev{
 	float: left;
 }
 
 .pagination a.older,
-.pagination span.next a{
+.pagination span.next a,
+.pagination a.next{
 	float: right;
 }
 
