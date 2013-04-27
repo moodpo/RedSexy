@@ -3,7 +3,7 @@
  * 
  * 红色性感Typecho主题
  * 
- * @package RedErotic
+ * @package RedSexy
  * @author moodpo
  * @version 1.0.0
  * @link http://moodpo.com
